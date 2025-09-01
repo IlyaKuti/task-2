@@ -1,0 +1,24 @@
+.mysecsion{
+    background-color: rgb(255, 255, 255);
+    /* color: black; */
+    height: 350px;
+    width: 200PX;
+
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.promt{
+    color: #000000;
+}
+
+.butten{
+    text-decoration: none;
+    color: #0033da;
+    background-color: #93acff;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
